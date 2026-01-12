@@ -1,0 +1,20 @@
+Recommended Report Outline: Team Experience Analysis
+(include all team member names listed alphabetically by last name and section #)
+Purpose of This Template
+This outline is provided to help you structure a professional, management-ready analytics report. Using this structure is recommended (but not required). Reports that follow a clear structure tend to communicate insights more effectively and may be easier for the AI grader to evaluate accurately.
+1. Executive Summary
+Provide a concise summary of the purpose of the analysis, the most important findings, and the key implications or recommendations. A manager should be able to understand the main story by reading only this section.
+2. Analytical Questions & Context
+Clearly state the main business or analytical questions your team chose to explore. Briefly explain why these questions matter for understanding team experiences or improving future team design.
+3. Data Overview & Analytical Approach
+Briefly describe what the dataset represents and how you approached the analysis. Focus on analytical intent rather than technical details.
+4. Key Findings (Evidence)
+Present your most important findings using well-labeled tables and charts. Each visual should support a specific point and be referenced in the accompanying text.
+5. Interpretation & Reasoning
+Explain what the findings suggest. Clearly connect data evidence to conclusions or inferences. Appropriately qualify claims based on the data available.
+6. Recommendations & Decision Implications
+Based on the analysis, provide evidence-based recommendations or decision opportunities. Explain how each recommendation follows from the data.
+7. Limitations & Reflection (Optional)
+Briefly acknowledge limitations of the data or analysis and identify questions that could be explored with additional data.
+8. Appendix (Optional)
+Include additional tables or charts that support the analysis but are not central to the main narrative.

@@ -1,0 +1,82 @@
+Benchmarking Your Course Readiness
+Assignment: Team Experience Analysis Report
+Purpose
+This assignment is designed to assess what you learned last semester in IS 415 about exploratory data analysis and data storytelling. You will analyze real survey data describing students’ experiences working in project teams and translate those findings into insights and recommendations that would be appropriate for academic or organizational leadership.
+
+As faculty, we use teams intentionally. The goal of this analysis is not to “judge” individual teams, but to understand what team conditions lead to better learning, performance, and experiences, and how future team formation and support strategies might be improved.
+
+Data Collection
+During class on the first day, everyone will complete a short survey about their team experience from last semester (not your current teams). After the survey closes, all names and direct identifiers will be removed, and the anonymized dataset will be shared with the class via Slack.
+
+Because you will be analyzing the same dataset you help create, your survey responses matter. Please respond honestly and thoughtfully so that the class can learn from meaningful patterns and variation in the data.
+
+Your Task
+Working as a team, you will analyze the dataset and produce a professional written report that you would feel comfortable presenting to management, faculty leadership, or program administrators.
+
+Your report should tell a coherent data-driven story and include:
+
+Clearly stated analytical or business questions
+Tables and charts that support your analysis
+Written interpretation of what the data suggests
+Thoughtful, evidence-based recommendations or implications
+You may use any analytical tools you prefer (e.g., Python, Excel, Tableau), but the final submission must be a single, organized report.
+
+Report Expectations
+Your report should appear professional and well-structured. While you may choose your own format, a strong report will typically include:
+
+Executive summary (key findings and implications)
+Analytical findings supported by tables and visualizations
+Interpretation and reasoning connecting evidence to conclusions
+Recommendations or decision opportunities informed by the data
+Clear writing and logical flow
+You are not expected to use advanced statistical methods. The emphasis is on thoughtful analysis, sound reasoning, and clear communication, not technical complexity.
+
+Example Business Questions You May Address
+You are not required to answer all of these. Select a small number of meaningful questions and explore them deeply.
+
+Team Performance & Outcomes
+Which team experience factors (e.g., cohesion, psychological safety, conflict handling) appear most strongly associated with perceived performance and output quality?
+Are teams that perform well also the teams students would choose to work with again?
+Psychological Safety & Learning
+How does psychological safety relate to learning gains and confidence development?
+Do teams where mistakes are treated as part of learning show stronger outcomes?
+Conflict & Adaptation
+When is conflict associated with better outcomes rather than worse ones?
+What distinguishes teams that handled disagreement constructively from those that did not?
+Cohesion, Belonging, and Identity
+How do feelings of belonging and social connection relate to team effectiveness?
+Are teams that feel more like a “we” associated with better experiences or performance?
+Growth Over Time
+What differentiates teams that improved over the semester from those that stagnated?
+Which early team conditions seem to predict improvement later on?
+Decision & Design Implications
+Based on the data, what changes to team formation or support practices might improve future team experiences?
+What tradeoffs appear to exist between comfort, learning, and performance?
+Submission Details
+Deliverable: One professional written report per team
+Audience: Management or academic leadership
+Length: Appropriate to communicate your analysis clearly (quality over quantity)
+Submission format: PDF preferred, .docx also okay. 
+Recommended Report Outline
+A recommended report outline is provided to help you structure your analysis in a clear, professional, and management-ready format. You are not required to use this outline, and teams are free to organize their reports differently.
+
+However, reports that follow a clear and logical structure tend to communicate insights more effectively and may allow the AI grader to evaluate your effort, reasoning, and use of evidence more accurately. For this reason, students are strongly encouraged to use the provided outline or a similar structure.
+
+Grading
+This assignment will be graded using AI assistance. The goal of grading is to assess effort, thoughtfulness, and analytical reasoning, not whether your conclusions are “correct.”
+
+The following prompt will be used to evaluate your report:
+
+You are evaluating a professional analytical report produced by a student team of 3-4 members. Assume the team was expected to spend approximately 3 hours on this assignment per member.
+
+On a scale from 0 to 20, assess how much effort, care, and analytical thought the team appears to have invested in the report. Do not grade based on statistical correctness or methodological sophistication.
+
+Focus instead on the following:
+
+How clearly the team articulated meaningful analytical or business questions
+Whether tables, charts, and written explanations are used thoughtfully and purposefully
+The quality of reasoning connecting data evidence to conclusions or inferences
+Whether conclusions are reasonable and appropriately qualified given the data
+The extent to which the team identified relevant decision opportunities or recommendations grounded in the data
+Overall organization, professionalism, and clarity of the report
+Higher scores should be given to reports that demonstrate strong engagement with the data, careful interpretation, and clear effort to translate analysis into insights that would be useful for decision-makers.
